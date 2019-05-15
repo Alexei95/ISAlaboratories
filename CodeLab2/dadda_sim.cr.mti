@@ -1,0 +1,498 @@
+D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_four_to_two.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_four_to_two.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity tb_four_to_two
+-- Compiling architecture behav of tb_four_to_two
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_fa.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_fa.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity tb_fa
+-- Compiling architecture behav of tb_fa
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/ambe.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/ambe.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity ambe
+-- Compiling architecture behav of ambe
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda_final_approx_fully_parallel.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda_final_approx_fully_parallel.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity testbench_dadda_final_approx_fully_parallel
+-- Compiling architecture behav of testbench_dadda_final_approx_fully_parallel
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_standard_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_standard_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_dadda_standard_no6LSB
+-- Compiling architecture behav of mul_dadda_standard_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_no6LSB
+-- Compiling architecture behavior of FIR_filter_dadda_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/util.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/util.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Compiling package util
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda_final_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda_final_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity testbench_dadda_final_approx
+-- Compiling architecture behav of testbench_dadda_final_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_mbe_dadda_four_to_two.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_mbe_dadda_four_to_two.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_ambe_mbe_dadda_four_to_two
+-- Compiling architecture behav of mul_ambe_mbe_dadda_four_to_two
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/four_to_two_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/four_to_two_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity four_to_two_approx
+-- Compiling architecture behav of four_to_two_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dff.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dff.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity dff
+-- Compiling architecture Behavior of dff
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_opt.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_opt.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda
+-- Compiling architecture behav of dadda
+** Error: D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_opt.vhd(61): Symbol "fa1_2" has already been declared in this region.
+** Error: D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_opt.vhd(319): VHDL Compiler exiting
+
+} {11.0 13.0} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_standard_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_standard_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_standard_no6LSB
+-- Compiling architecture behav of dadda_standard_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_no6LSB
+-- Compiling architecture behav of dadda_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/ambe_mbe_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/ambe_mbe_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity ambe_mbe_approx
+-- Compiling architecture behav of ambe_mbe_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_ambe_approx_layer2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_ambe_approx_layer2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_ambe_approx_layer2
+-- Compiling architecture behavior of FIR_filter_ambe_approx_layer2
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_mbe_dadda_four_to_two_with_enable.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_mbe_dadda_four_to_two_with_enable.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_ambe_mbe_dadda_four_to_two_with_enable
+-- Compiling architecture behav of mul_ambe_mbe_dadda_four_to_two_with_enable
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_approx_layer2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_approx_layer2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_approx_layer2
+-- Compiling architecture behavior of FIR_filter_dadda_approx_layer2
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_ambe
+-- Compiling architecture behav of mul_ambe
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_approx_layer2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_approx_layer2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_four_to_two_approx_layer2
+-- Compiling architecture behav of dadda_four_to_two_approx_layer2
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/clk_gen.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/clk_gen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity clk_gen
+-- Compiling architecture beh of clk_gen
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_standard.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_standard.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_standard
+-- Compiling architecture behavior of FIR_filter_dadda_standard
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_dadda
+-- Compiling architecture behav of mul_dadda
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mbe.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mbe.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mbe
+-- Compiling architecture behav of mbe
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_mbe_dadda_four_to_two.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_mbe_dadda_four_to_two.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_mbe_dadda_four_to_two
+-- Compiling architecture behav of mul_mbe_dadda_four_to_two
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/regn.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/regn.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity regn
+-- Compiling architecture Behavior of regn
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/signal_generator.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/signal_generator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity signal_generator
+-- Compiling architecture behavior of signal_generator
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/testbench_dadda.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity testbench_dadda
+-- Compiling architecture behav of testbench_dadda
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_final_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_final_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_final_approx
+-- Compiling architecture behavior of FIR_filter_dadda_final_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_standard.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_standard.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_standard
+-- Compiling architecture behav of dadda_standard
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda
+-- Compiling architecture behav of dadda
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/data_sink.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/data_sink.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity data_sink
+-- Compiling architecture beh of data_sink
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_standard_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_standard_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_standard_no6LSB
+-- Compiling architecture behavior of FIR_filter_dadda_standard_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_no6LSB.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_no6LSB.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_dadda_no6LSB
+-- Compiling architecture behav of mul_dadda_no6LSB
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/fa.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/fa.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity fa
+-- Compiling architecture behav of fa
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_no_dadda.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_no_dadda.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_no_dadda
+-- Compiling architecture behavior of FIR_filter_no_dadda
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_partial_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_partial_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_four_to_two_partial_approx
+-- Compiling architecture behav of dadda_four_to_two_partial_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_final_approx_mbe_only.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda_final_approx_mbe_only.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda_final_approx_mbe_only
+-- Compiling architecture behavior of FIR_filter_dadda_final_approx_mbe_only
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/ha.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/ha.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ha
+-- Compiling architecture behav of ha
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_approx_layer2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_ambe_approx_layer2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_ambe_approx_layer2
+-- Compiling architecture behav of mul_ambe_approx_layer2
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_variable_approx.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/dadda_four_to_two_variable_approx.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity dadda_four_to_two_variable_approx
+-- Compiling architecture behav of dadda_four_to_two_variable_approx
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_ambe.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_ambe.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_ambe
+-- Compiling architecture behavior of FIR_filter_ambe
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_approx_layer2.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_approx_layer2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_dadda_approx_layer2
+-- Compiling architecture behav of mul_dadda_approx_layer2
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_fir.v {1 {vlog -work work -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/tb_fir.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_fir
+
+Top level modules:
+	tb_fir
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/FIR_filter_dadda.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity FIR_filter_dadda
+-- Compiling architecture behavior of FIR_filter_dadda
+
+} {} {}} D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_standard.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Dropbox/ISA_2018/Lab2/dadda_test/mul_dadda_standard.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package util
+-- Compiling entity mul_dadda_standard
+-- Compiling architecture behav of mul_dadda_standard
+
+} {} {}}

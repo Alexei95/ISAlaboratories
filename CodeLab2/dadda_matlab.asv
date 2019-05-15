@@ -1,0 +1,27 @@
+close all
+clear all
+clc
+
+folder = "Comparisons_final_approx";
+filetype = ".txt";
+
+files_to_process = ls(folder + "/*" + filetype);
+indexes = [str2num(files_to_process(:, 5)) str2num(files_to_process(:, 11))];
+max_ambe = max(indexes)(1);
+max_dadda = max(indexes)(2);
+figure
+for k=1:size(files_to_process, 1)
+    file = files_to_process(k, :)
+    index = [str2num(file) str2num(file)];
+    data = importdata(folder + "/" + file, ";");
+    data_to_plot = data(:, end);
+    max(data_to_plot)
+    mean(data_to_plot)
+    var(data_to_plot)
+    pd = fitdist(data_to_plot, 'Normal')
+    subplot(max_ambe, max_dadda, k);
+    title('Name', "Ambe: " + string(index(1)) + ";Dadda:
+    plot(sort(data_to_plot), pdf(pd, sort(data_to_plot)))
+    %figure
+    %plot(data(1:10000, end))
+end
